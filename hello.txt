@@ -3,3 +3,4 @@ Welcome to sonata
 Git Training
 good
 good day
+6th line updated
